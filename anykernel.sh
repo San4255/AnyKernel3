@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Redcliff Kernel by @RedcliffOP
+kernel.string=Risan Kernel by @Risan4255
 do.devicecheck=1
 do.modules=0
 do.systemless=1
